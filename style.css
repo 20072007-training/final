@@ -129,7 +129,7 @@ button {
 }
 
 button:hover {
-    background: #00c6ff;
+    background: #00fff8;
 }
 
 /* Footer */
@@ -159,4 +159,5 @@ footer {
     .menu-toggle {
         display: block;
     }
+
 }
